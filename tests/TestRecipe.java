@@ -6,7 +6,9 @@ class TestRecipe {
 
 	@Test
 	void testCreateRecipe() {
-		fail("Not yet implemented");
+		//fail("Not yet implemented");
+		Recipe r = new Recipe(); 
+		assertEquals(r.getTestRecipeCreation(),true); 
 	}
 
 }
