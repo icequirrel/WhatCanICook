@@ -1,0 +1,68 @@
+~@~RECIPEENTRY_1
+TESTRECIPE
+Some Directions Here
+3
+ingredient1
+ingredient2
+~@~RECIPEENTRY_2
+Tea with Honey
+1) Grab a coffee cup@@@@@2) Boil water@@@@@3) place a tea bag in the coffee cup@@@@@4) add 2 tbsp honey to the coffee cup@@@@@5) add boiling water to the coffee cup until full
+35
+water
+tea bag
+honey
+~@~RECIPEENTRY_3
+Hot Chocolate
+1) Melt 16oz of Bakers Chocolate in a Saucepan@@@@@2) Add in 2 cups of sugar@@@@@3) slowly stir in 4 cups of whole milk@@@@@4) add cinnamon to taste@@@@@5) enjoy! 
+35
+bakers chocolate
+sugar
+cinnamon
+whole milk
+~@~RECIPEENTRY_4
+Buttery Hazelnut Toffee
+1) Grease a small baking sheet with butter@@@@@2) Melt 1 1/4 cups of butter in 2 1/2 qt. saucepan on low heat@@@@@3) Add the following to the saucepan: @@@@@	1/4 cup brown sugar (firmly packed)@@@@@	1 cup sugar@@@@@	1/4 cup water@@@@@	1 tbsp honey@@@@@4) Stir until the sugars are dissolved@@@@@5) Turn the heat to medium and cook until the toffee mixture reaches 290 F@@@@@	*stir continuously with a wooden utensil@@@@@6) Remove from heat@@@@@7) Mix in 1 cup of coarsely chopped, toasted hazelnuts@@@@@8) Pour onto prepared baking sheet. DO NOT SCRAPE@@@@@9) Let stand 1 minute@@@@@10) Sprinkle with chopped bittersweet chocolate@@@@@11) Let stand until chocolate is soft@@@@@12) Spread chocolate over toffee with back of spoon@@@@@13) Sprinkle with finely chopped, toasted hazelnuts
+120
+unsalted butter
+sugar
+brown sugar
+water
+honey
+hazelnuts
+bittersweet chocolate
+~@~RECIPEENTRY_5
+Walnut Balls
+PREHEAT OVEN TO 350 F@@@@@1) Cream 1/2 cup of butter@@@@@2) Beat in 2 tbsp sugar@@@@@3) Add 1 tsp vanilla extract@@@@@4) Add 1 cup flour@@@@@5) Add1 cup finely chopped walnuts@@@@@6) Mix well@@@@@7) Form cookies by taking a handful of mixture and rolling it in your palm@@@@@	*Each cookie should be the size of a walnut with its shell@@@@@8) Place cookies on baking sheet lined with parchment paper@@@@@9) Bake at 350 F for 15-20 minutes@@@@@10) Roll cookies in powdered sugar while still warm@@@@@11) Let sit until cool and enjoy! 
+30
+butter
+flour
+walnuts
+sugar
+vanilla extract
+powdered sugar
+~@~RECIPEENTRY_6
+Chocolate Drop Cookies
+PREHEAT OVEN TO 375 F@@@@@@@@@@For the Cookies@@@@@1) Mix together the following: @@@@@	1/2 cup soft margarine@@@@@	1 1/2 cups sugar@@@@@	2 eggs@@@@@	2 squares of baker's chocolate - melted@@@@@2) Stir in the following: @@@@@	1 cup thick sour cream@@@@@	1 tsp vanilla extract@@@@@3) Sift in the following: @@@@@	2 3/4 cups flour@@@@@	1/2 tsp baking soda@@@@@	1/2 tsp baking powder@@@@@	1/2 tsp salt@@@@@4) Mix all ingredients together until a smooth batter is formed@@@@@5) Drop 1 tsp of batter for each cookie onto greased cookie sheet@@@@@6) Bake for 8-10 minutes at 375 F@@@@@7) When cooled, frost cookies@@@@@8) Top with nuts or m&ms as desired@@@@@@@@@@For Icing@@@@@1) Mix the following together: @@@@@	3/4 box powdered sugar@@@@@	1/2 stick margarine@@@@@	1 tsp vanilla extract@@@@@	3 tbsp cocoa powder@@@@@	whole milk (add to get desired frosting consistency)@@@@@@@@@@Finally, ENJOY :) 
+120
+margarine
+sugar
+eggs
+baker's chocolate
+sour cream
+vanilla extract
+flour
+baking soda
+baking powder
+salt
+powdered sugar
+whole milk
+cocoa powder
+~@~RECIPEENTRY_7
+B52 - Adult Drink
+1) Chill Baileys Irish Cream, Kahlua, and Grand Marnier@@@@@2) In a tall glass (i.e. a champagne flute) pour 1 oz of Kahlua@@@@@3) Using a spoon in the glass to slow the pouring, *slowly* pour 1 oz of Baileys Irish Cream on top of the Kahlua@@@@@	*If done correctly, there should be a distinct separation between the two@@@@@4) Using the spoon again, *slowly* pour 1 oz of Grand Marnier on top of the Baileys Irish Cream@@@@@	*If done correctly, there should be 3 distinct layers of alcohol@@@@@5) Serve cold and enjoy! @@@@@@@@@@Note: For best flavor, do not mix.  
+5
+baileys irish cream
+kahlua
+grand marnier
+
+

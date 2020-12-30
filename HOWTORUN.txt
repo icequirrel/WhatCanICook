@@ -1,0 +1,127 @@
+To see the program: 
+1) Open up the ApplicationUI.java file in eclipse
+2) Run the ApplicationUI.java class
+
+A UI "Recipe Manager" should open up. 
+The first screen displayed is the "Recipe Search" screen. 
+NOTE: All user inputs are case-sensitive.
+
+3) In the "Recipe Name:" field, type: 	Tea
+4) Click the "Search By Name" button
+
+The "Matching Recipes:" textarea should populate with a report that says the following: 
+
+		Matching Recipes: 
+		
+		Tea with Honey
+		 Total Time to Make: 35
+		 
+		 
+		End of List
+
+5) In the "Recipe Ingredient(s):" textarea, type in the followng: 
+
+water
+
+6) Click "Search by Ingredient(s)" 
+
+The "Matching Recipes:" textarea should populate with a report that says the following: 
+
+		Matching Recipes: 
+		
+		Tea with Honey
+		 Total Time to Make: 35
+		 
+		Buttery Hazelnut Toffee
+		 Total Time to Make: 120
+		 
+		 
+		End of List
+		
+
+7) Click "Search By Both"
+
+The "Matching Recipes:" textarea should populate with a report that says the following: 
+
+		Matching Recipes: 
+		
+		Tea with Honey
+		 Total Time to Make: 35
+		 
+		 
+		End of List
+
+8) In the "Recipe Ingredient(s):" textarea, typing in the following on the line below water: hazelnuts
+
+The "Recipe Ingredient(s):" textarea should look like this: 
+
+water
+hazelnuts
+
+9) Click "Search by Ingredient(s)" 
+
+The "Matching Recipes:" textarea should populate with a report that says the following: 
+
+		Matching Recipes: 
+		
+		Buttery Hazelnut Toffee
+		 Total Time to Make: 120
+		 
+		 
+		End of List 
+		
+10) Click "Go To Recipe Details" to navigate to the recipe details panel
+11) In the "Select a Recipe:" dropdown, select "B52 - Adult Drink" 
+
+Note that the Recipe Directions, Total Cook Time (minutes), and Recipe Ingredient(s) fields should populate. These fields should not be editable. 
+
+12) In the "Select a Recipe:" dropdown, select "Walnut Balls"
+
+Note that the Recipe Directions, Total Cook Time (minutes), and Recipe Ingredient(s) fields should update for the selected recipe. 
+
+13) Click "Go To Recipe Addition" to navigate to the add recipe panel
+14) Click "Create Recipe" 
+
+You should receive a message that says the recipe is incomplete. 
+Clicking "Create Recipe" when Recipe Name, Total Cook Time, Recipe Ingredient(s) or Recipe Directions are not populated should result in the "Incomplete Recipe"  notice
+
+15) In the "Recipe Name:" field, type: Walnut Balls
+16) In the "Total Cook Time (minutes):" field, type: a10
+17) In the "Recipe Ingredient(s):" field, type: walnuts
+18) In the "Recipe Directions:" field, type: follow other recipe
+19) Click "Create Recipe" 
+
+You should receive the following message "Invalid Cook Time" because the cook time is not a number.
+
+20) Change the "Total Cook Time (minutes):" to: 10
+21) Click "Create Recipe" 
+
+You should receive the following message "Name Already In Use!" because "Walnut Balls" is an existing recipe. 
+
+22) Change the "Recipe Name:" to: Walnut Balls v2
+
+You should receive the following message: "Recipe Created Successfully
+
+23) Click "Go To Recipe Search" 
+24) Delete everything out of the "Recipe Ingredient(s):" textarea
+25) In the "Recipe Ingredient(s):" textarea, type: walnuts
+
+The "Matching Recipes:" textarea should populate with a report that says the following: 
+
+		Matching Recipes: 
+		
+		Walnut Balls
+		 Total Time to Make: 30
+		 
+		Walnut Balls v2
+		 Total Time to Make: 10
+		 
+		 
+		End of List
+ 
+26) Click "Go To Recipe Details" 
+27) From the "Select a Recipe:" dropdown, select "Walnut Balls v2" 
+
+You should see the total cook time field display "10", Recipe Ingredients should display "walnuts", Recipe Directions should display "follow other recipe" 
+
+28) Feel free to play around with the program and add additional recipes. Let me know if you have any questions! 
